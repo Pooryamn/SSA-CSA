@@ -4,6 +4,10 @@
 ![MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.06246-b31b1b.svg)](https://arxiv.org/abs/2604.06246)
 
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/Pooryamn/SSA-CSA/master/figures/overview.png](https://raw.githubusercontent.com/Pooryamn/SSA-CSA/refs/heads/master/Overview.jpg)" alt="SSA-CSA overview" width="800">
+</p>
+
 **SSA-CSA** is a metaheuristic optimization algorithm that automatically tunes the hyperparameters of iterative reconstruction algorithms for Cone-Beam Computed Tomography (CBCT). It is a search-space-aware version of the Crow Search Algorithm (CSA), built to find good reconstruction parameters **without needing a reference image**.
 
 This repository contains the official MATLAB implementation used in our paper.
