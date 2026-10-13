@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.06246-b31b1b.svg)](https://arxiv.org/abs/2604.06246)
+[![ScienceDirect](https://img.shields.io/badge/ScienceDirect-Article-orange.svg)](https://www.sciencedirect.com/science/article/pii/S2590123026041587)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pooryamn/SSA-CSA/refs/heads/master/Overview.jpg" alt="SSA-CSA overview" width="1200">
